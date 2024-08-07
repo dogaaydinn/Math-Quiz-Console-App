@@ -259,12 +259,12 @@ internal static class Program
 
     # region Classes
 
-private static class Difficulty
-{ 
-    public const string Easy = "Easy";
-    public const string Medium = "Medium";
-    public const string Hard = "Hard";
-}
+    private static class Difficulty
+    { 
+        public const string Easy = "Easy";
+        public const string Medium = "Medium";
+        public const string Hard = "Hard";
+    }
 
 # endregion Classes
 } 

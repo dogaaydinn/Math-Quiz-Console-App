@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathQuiz", "MathQuiz\MathQuiz.csproj", "{A186DFB5-CD73-40FB-A312-793352CB68BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathQuiz.OOP", "MathQuiz.OOP\MathQuiz.OOP.csproj", "{F3B7FA00-1A1E-49D8-A6FA-85F8B3A03F34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A186DFB5-CD73-40FB-A312-793352CB68BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A186DFB5-CD73-40FB-A312-793352CB68BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A186DFB5-CD73-40FB-A312-793352CB68BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B7FA00-1A1E-49D8-A6FA-85F8B3A03F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B7FA00-1A1E-49D8-A6FA-85F8B3A03F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B7FA00-1A1E-49D8-A6FA-85F8B3A03F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B7FA00-1A1E-49D8-A6FA-85F8B3A03F34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
